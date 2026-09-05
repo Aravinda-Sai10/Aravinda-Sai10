@@ -14,7 +14,7 @@
 
 I'm an aspiring AI/ML Engineer passionate about building practical applications using Artificial Intelligence and Machine Learning.
 
-I enjoy working across the complete development journey — from **data preprocessing and model development to API development, databases, data visualization, and AI-powered applications.**
+I enjoy working across the complete development journey - from **data preprocessing and model development to API development, databases, data visualization, and AI-powered applications.**
 
 I'm particularly interested in:
 
@@ -54,22 +54,82 @@ I'm particularly interested in:
 `Git` `GitHub` `VS Code` `Jupyter Notebook`
 
 ---
+# 🔥 Featured Projects
 
-# 🚀 Featured Projects
+## 🤖 RAG Customer Support Assistant
 
-### 🤖 RAG Customer Support Assistant
+> Building an intelligent customer support system using Retrieval-Augmented Generation.
 
-An AI-powered customer support application using **Retrieval-Augmented Generation (RAG)** to retrieve relevant information and generate useful responses.
+An AI-powered customer support assistant designed to retrieve relevant information from a knowledge base and provide context-aware responses using a RAG pipeline.
 
-### 📄 Document Q&A Assistant
+**Built with**
 
-A document question-answering system using **RAG and Large Language Models**, allowing users to ask questions and retrieve relevant information from documents.
+`Python` `RAG` `LLMs` `Streamlit` `FastAPI` `Vector Search`
 
-### 📊 Power BI Dashboard Projects
+**What I worked on**
 
-Interactive dashboards that transform raw datasets into meaningful insights and support **data-driven business decision making**.
+- 🤖 RAG-based customer support
+- 🔎 Information retrieval
+- 🧠 Context-aware question answering
+- 📚 Knowledge base integration
+- 👤 Human-in-the-loop workflow
+- ⚡ RAG pipeline development
+- 🌐 Interactive Streamlit application
+
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aravinda-Sai10/RAG-CUSTOMER-SUPPORT-ASSISTANT)
 
 ---
+
+## 📞 AI Calling Agent
+
+> Building an AI-powered voice assistant for automated customer interactions.
+
+An intelligent voice calling application built to handle customer conversations, answer questions, provide course information, capture booking details, and manage student appointments.
+
+**Built with**
+
+`Python` `Flask` `Twilio` `REST APIs` `JavaScript` `HTML5` `CSS3` `JSON`
+
+**What I worked on**
+
+- 📞 AI-powered voice calling workflow
+- 💬 Intelligent question answering
+- 📚 Course information assistance
+- 🗓️ Student course booking management
+- 🧠 Knowledge base integration
+- 📊 Sales intelligence support
+- 🌐 Responsive web interface
+- ⚡ REST API development with Flask
+
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aravinda-Sai10/AI-CALLING-AGENT)
+
+---
+
+## ❤️ Heart Disease Prediction
+
+> Turning machine learning into an interactive health-risk prediction application.
+
+A full-stack machine learning application that predicts the likelihood of heart disease from clinical input parameters and presents the results through a professional Streamlit dashboard.
+
+**Built with**
+
+`Python` `Scikit-learn` `Machine Learning` `Streamlit` `Pandas` `NumPy`
+
+**What I worked on**
+
+- 🧠 Machine learning model development
+- 📊 Clinical data preprocessing
+- 🔬 Feature preparation and validation
+- 💻 Interactive Streamlit dashboard
+- 📈 Risk-level prediction
+- 🩺 Patient input processing
+- 🧩 Modular backend architecture
+- 🚀 Model training and deployment workflow
+
+[![View Project](https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aravinda-Sai10/Heart-Disease-Prediction)
+
+---
+
 
 # 💡 What I Know
 
