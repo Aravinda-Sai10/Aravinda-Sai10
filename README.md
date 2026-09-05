@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Aravinda Sai
+# 👋 Hey, I'm Aravinda Sai!
 
 ### 🤖 AI/ML Engineer in the Making | Generative AI | Python
 
