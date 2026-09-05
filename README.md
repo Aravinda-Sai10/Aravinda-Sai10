@@ -186,10 +186,10 @@ I believe the best way to learn AI is not just by studying algorithms, but by **
 
 # 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravindasai-arva10/)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aravinda-Sai10)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Contact](https://img.shields.io/badge/CONTACT-GET%20IN%20TOUCH-6C63FF?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aervaaravind10@gmail.com)
+[![Contact](https://img.shields.io/badge/CONTACT-GET%20IN%20TOUCH-6C63FF?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:aervaaravind10@gmail.com)
 
 ---
 
